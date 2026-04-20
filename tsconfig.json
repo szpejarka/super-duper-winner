@@ -1,0 +1,1 @@
+{\n  \\"compilerOptions\\": {\n    \\"target\\": \\"ES2020\\",\n    \\"lib\\": [\n      \\"DOM\\",\n      \\"ES2020\\"\n    ],\n    \\"strict\\": true\n  }\n}
